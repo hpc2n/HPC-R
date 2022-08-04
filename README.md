@@ -1,4 +1,4 @@
-# Using R in HPC 
+# Using R in High Performance Computing 
 
 
 # Rendered material
